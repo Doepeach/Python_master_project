@@ -1,0 +1,6 @@
+a=input()
+b=input()
+print(a,'+',b,'=',round(float(a)+float(b),2))
+print(a,'-',b,'=',round(float(a)-float(b),2))
+print(a,'*',b,'=',round(float(a)*float(b),2))
+print(a,'/',b,'=',round(float(a)/float(b),2))

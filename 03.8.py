@@ -1,0 +1,5 @@
+print('Hello, Euler\n\n')
+print('Hello, Euler')
+print('\n')
+print()
+print('Hello, Euler')

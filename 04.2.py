@@ -1,0 +1,6 @@
+print(10//4)
+print(10%4)
+print(4//10)
+print(4%10)
+print(2**10)
+print('\\n')

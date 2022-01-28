@@ -1,0 +1,5 @@
+A,B,C=map(int,input().split())
+print(A,'+',B,'+',C,'=',A+B+C,sep='')
+print(A,'-',B,'-',C,'=',A-B-C,sep='')
+print(A,'*',B,'*',C,'=',A*B*C,sep='')
+print(A,'/',B,'/',C,'=',A/B/C,sep='')

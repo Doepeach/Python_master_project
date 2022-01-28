@@ -1,0 +1,6 @@
+print('123',end=' ')
+print(' 678')
+print('12345678901234')
+print('ABC%8dDEF'%123)
+print('ABC%-8dDEF' %123)
+print('ABC%2dDEF' %123)
