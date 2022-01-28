@@ -1,2 +1,3 @@
 # Python_master_project
-hello i want to master 
+2021y i started Python
+
