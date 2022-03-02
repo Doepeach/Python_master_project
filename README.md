@@ -1,10 +1,12 @@
 # Python_master_project
-2021 i started Python
+2021년부터 Python언어를 공부하기 시작했습니다.
 
-i will master Python in 2022
 
-Sed omnia praeclara tam difficilia, quam rara sunt
+현재 교재 '코딩마법서_파이썬_스톤'으로 공부중이며,
+2022년에 병원 차트 프로그램을 만드는 것이 목표입니다.
 
-Maktub 
+
+CodingPythonStone 폴더에는 교재에서 나온 연습문제,예제,오일러Oj의 풀이를 업로드합니다.
+
 
 
